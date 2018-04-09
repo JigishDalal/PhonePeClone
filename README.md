@@ -4,6 +4,10 @@ Made for Clone UI Challenege of Google Udacity Android Developer Scholarship Cha
 
 **_This PhonePe UI Clone is made for challenge purpose and not intented for any business purpose._**
 
+**Screencast Gif**
+
+![videotogif_2018 04 09_21 11 37](https://user-images.githubusercontent.com/16916934/38507935-7c5125f6-3c3b-11e8-9159-151e8b6f7514.gif)
+
 **Screenshots**
 
 ![screenshot_20180409-185237](https://user-images.githubusercontent.com/16916934/38507302-cc8ae2c0-3c39-11e8-9250-e686e9863f02.png)
@@ -18,9 +22,6 @@ Made for Clone UI Challenege of Google Udacity Android Developer Scholarship Cha
 
 ![screenshot_20180409-185312](https://user-images.githubusercontent.com/16916934/38507488-45ca6fc0-3c3a-11e8-87a7-c958b153810a.png)
 
-**Screencast Gif**
-
-![videotogif_2018 04 09_21 11 37](https://user-images.githubusercontent.com/16916934/38507935-7c5125f6-3c3b-11e8-9159-151e8b6f7514.gif)
 
 **It a fully Open Source project so go ahead and fork it.**
 
