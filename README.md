@@ -10,17 +10,12 @@ Made for Clone UI Challenege of Google Udacity Android Developer Scholarship Cha
 
 **Screenshots**
 
-![screenshot_20180409-185237,20%](https://user-images.githubusercontent.com/16916934/38507302-cc8ae2c0-3c39-11e8-9250-e686e9863f02.png)
-
-![screenshot_20180409-185242](https://user-images.githubusercontent.com/16916934/38507356-f586ee12-3c39-11e8-9e06-3c2a554b05be.png)
-
-![screenshot_20180409-185247](https://user-images.githubusercontent.com/16916934/38507411-0d0919ca-3c3a-11e8-938b-99b2f2964b71.png)
-
-![screenshot_20180409-185254](https://user-images.githubusercontent.com/16916934/38507440-2010275c-3c3a-11e8-8d5d-f1121f84b39b.png)
-
-![screenshot_20180409-185309](https://user-images.githubusercontent.com/16916934/38507471-36af2c38-3c3a-11e8-9427-23081e2ebab7.png)
-
-![screenshot_20180409-185312](https://user-images.githubusercontent.com/16916934/38507488-45ca6fc0-3c3a-11e8-87a7-c958b153810a.png)
+![screenshot_20180409-185237_1_25](https://user-images.githubusercontent.com/16916934/38513152-f0a3c012-3c4a-11e8-9950-b2c0dedf5c4c.png)
+![screenshot_20180409-185242_25](https://user-images.githubusercontent.com/16916934/38513153-f0d15c7a-3c4a-11e8-872f-a2cb0715933e.png)
+![screenshot_20180409-185247_25](https://user-images.githubusercontent.com/16916934/38513154-f0fe76ce-3c4a-11e8-8a6d-bec87aa6514f.png)
+![screenshot_20180409-185254_25](https://user-images.githubusercontent.com/16916934/38513156-f12e42f0-3c4a-11e8-9fad-36638749a937.png)
+![screenshot_20180409-185309_25](https://user-images.githubusercontent.com/16916934/38513157-f15b9d0e-3c4a-11e8-892e-b8c229ddab56.png)
+![screenshot_20180409-185312_25](https://user-images.githubusercontent.com/16916934/38513158-f18987c8-3c4a-11e8-864f-aaf8ea5c7c7d.png)
 
 
 **It a fully Open Source project so go ahead and fork it.**
