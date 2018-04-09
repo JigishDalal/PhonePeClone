@@ -10,7 +10,7 @@ Made for Clone UI Challenege of Google Udacity Android Developer Scholarship Cha
 
 **Screenshots**
 
-![screenshot_20180409-185237](https://user-images.githubusercontent.com/16916934/38507302-cc8ae2c0-3c39-11e8-9250-e686e9863f02.png)
+![screenshot_20180409-185237](https://user-images.githubusercontent.com/16916934/38507302-cc8ae2c0-3c39-11e8-9250-e686e9863f02.png){:height="480px" width="270px"}.
 
 ![screenshot_20180409-185242](https://user-images.githubusercontent.com/16916934/38507356-f586ee12-3c39-11e8-9e06-3c2a554b05be.png)
 
